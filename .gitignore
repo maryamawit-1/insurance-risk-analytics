@@ -6,4 +6,5 @@ __pycache__/
 venv/
 .ipynb_checkpoints/
 data/*.csv
+data/*.txt
 .DS_Store
